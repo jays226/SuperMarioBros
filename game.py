@@ -1,6 +1,3 @@
-# Name: Jay Sikka
-# ID: bmt7uk
-
 # Description: I made a Mario game with the goal of getting the maximum amount of coins within the time limit and not
 # dying. This Mario game mimics the layout of the typical 1-1 level in Super Mario Bros.
 
