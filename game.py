@@ -13,8 +13,8 @@
 # important part of setting the scene for Mario
 
 # 4 Additional Features:
-# (Changed) 1. Enemies: There will be typical Mario enemies that try to stop his movement across the map
-# (Changed) 2. Collectibles: There will be coins that Mario can collect with a score appearing on the top of the screen
+# 1. Enemies: There will be typical Mario enemies that try to stop his movement across the map
+# 2. Collectibles: There will be coins that Mario can collect with a score appearing on the top of the screen
 # 3. Sprite animation: Mario will have sprite animation when he moves
 # 4. Scrolling Level: The level will be larger than the screen and mario will be able to move around in it
 
